@@ -3,8 +3,8 @@ A Computer Engineering student who loves to explore
 various continents of the Tech world. I'm presently working towards becoming 
 an Extraordinary mobile applications Engineer. 
 
-- 🔭 I’m currently working on a Recipe App Using flutter\
-- 🌱 I’m currently learning Dart (flutter)and python
+- 🔭 I’m currently working on a Recipe App Using flutter
+- 🌱 I’m currently learning Dart (flutter) and python
 - ⚡ Fun fact: I love to create cool Illustrutions in my free time 
 
 <!--
