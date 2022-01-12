@@ -4,7 +4,7 @@ various continents of the Tech world. I'm presently working towards becoming
 a creative mobile applications Engineer. 
 
 - 🔭 I’m currently working on a Recipe App Using flutter
-- 👯 I’m looking to collaborate on on open source projects and bring app Ideas or designs to life
+- 👯 I’m looking to collaborate on open source projects and bring app Ideas or designs to life
 - ⚡ Fun fact: I love to create cool Illustrutions in my free time 
 
 <!--
