@@ -6,6 +6,7 @@ a creative mobile applications Engineer.
 - 🔭 I’m currently working on a Recipe App Using flutter
 - 👯 I’m looking to collaborate on open source projects and bring app Ideas or designs to life
 - ⚡ Fun fact: I love to create cool Illustrutions in my free time 
+- 💬 Ask me about Flutter, digital illustrations and reading.
 
 <!--
 **JerryAgbesi/JerryAgbesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
