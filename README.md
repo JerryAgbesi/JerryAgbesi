@@ -7,7 +7,8 @@ a Unicorn mobile applications Engineer.
 - 👯 I’m looking to collaborate on open source projects and bring app Ideas or designs to life
 - ⚡ Fun fact: I love to create cool Illustrutions and read books in my free time 
 - 💬 Ask me about Flutter,Python,machine Learning, digital illustrations,reading and any Techie stuff.
-
+- 📫 How to reach me:
+  Twitter: @Jerry_Elikem
 <!--
 **JerryAgbesi/JerryAgbesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
