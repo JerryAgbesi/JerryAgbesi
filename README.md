@@ -9,6 +9,7 @@ a Unicorn mobile applications Engineer.
 - 💬 Ask me about Flutter,Python,machine Learning, digital illustrations,reading and any Techie stuff.
 - 📫 How to reach me:
   Twitter: @Jerry_Elikem
+  Email: jerryeagbesi@gmail.com
 <!--
 **JerryAgbesi/JerryAgbesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
