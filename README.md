@@ -1,7 +1,7 @@
 ### Hey there 👋, I'm Jerry Agbesi. 
 A Computer Engineering student who loves to explore 
 various sections of the Tech world. I'm presently working towards becoming 
-a Unicorn mobile applications Engineer. 
+a Unicorn backend Engineer. 
 
 - 🔭 I’m currently exploring backend technologies and playing around with data
 - 👯 I’m looking to collaborate on open source projects and bring app Ideas or designs to life
