@@ -9,6 +9,8 @@ a Unicorn backend Engineer.
 - 📫 How to reach me:
   Twitter: **@Jerry_Elikem**
   Email: jerryeagbesi@gmail.com
+  
+ ![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryAgbesi&show_icons=true&theme=onedark)
 <!--   
 | title | author | description |
 | :--- | :--- | :--- |
