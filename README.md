@@ -11,6 +11,11 @@ a Unicorn backend Engineer.
   Email: jerryeagbesi@gmail.com
   
  ![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryAgbesi&show_icons=true&theme=onedark)
+ <h1 align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JerryAgbesi&theme=dracula"/> <br/>
+
+</h1>
+
 <!--   
 | title | author | description |
 | :--- | :--- | :--- |
