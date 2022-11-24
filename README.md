@@ -7,10 +7,12 @@ a Unicorn backend Engineer.
 - ⚡ Fun fact: I love to create cool Illustrutions and read books in my free time 
 - 💬 Ask me about Flutter,Python,machine Learning, digital illustrations,reading and any Techie stuff.
 - 📫 How to reach me:
-  Twitter: **@Jerry_Elikem**
+
+  Twitter: [**@Jerry_Elikem**](https://twitter.com/Jerry_Elikem)
+  
   Email: jerryeagbesi@gmail.com
   
-## 🔧 Technologies & Tools
+<h1 align="center"> 🔧 Technologies & Tools </h1>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -19,7 +21,7 @@ a Unicorn backend Engineer.
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=Redis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
+<h1 align="center"> &#x1f4c8; GitHub Stats </h1>
 
 <a href="https://github.com/JerryAgbesi/JerryAgbesi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JerryAgbesi&show_icons=true&theme=dracula" alt="Jerry's GitHub Stats" />
