@@ -1,4 +1,4 @@
-### Hey there 👋, I'm Jerry Agbesi. 
+<h1 align="center"> Hey there 👋, I'm Jerry </h1>. 
 A Computer Engineering student who loves to solve problems. I'm presently working towards becoming 
 a Unicorn backend Engineer. 
 
@@ -10,11 +10,27 @@ a Unicorn backend Engineer.
   Twitter: **@Jerry_Elikem**
   Email: jerryeagbesi@gmail.com
   
- ![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryAgbesi&show_icons=true&theme=onedark)
- <h1 align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JerryAgbesi&theme=dracula"/> <br/>
+## 🔧 Technologies & Tools
 
-</h1>
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=Redis&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/JerryAgbesi/JerryAgbesi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JerryAgbesi&show_icons=true&theme=dracula" alt="Jerry's GitHub Stats" />
+</a>
+<a href="https://github.com/JerryAgbesi/JerryAgbesi">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JerryAgbesi&theme=dracula" alt="Jerry's GitHub Stats" />
+</a>
+
+
+
+
 
 <!--   
 | title | author | description |
