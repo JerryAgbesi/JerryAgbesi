@@ -21,6 +21,7 @@ a Unicorn backend/ Mobile Engineer.
 ![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=Redis&logoColor=white&color=2bbc8a)
 
 
@@ -37,6 +38,5 @@ a Unicorn backend/ Mobile Engineer.
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JerryAgbesi&theme=dracula" alt="Jerry's GitHub Stats" />
 </a>
 
-
-<a href="http://www.github.com/JerryAgbesi"><img src="https://activity-graph.herokuapp.com/graph?username=JerryAgbesi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/JerryAgbesi"><img src="https://activity-graph.herokuapp.com/graph?username=JerryAgbesi&bg_color=282a36&color=ffffff&line=dd6387&point=79dafa&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
