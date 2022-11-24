@@ -10,7 +10,7 @@ a Unicorn backend/ Mobile Engineer.
 
   Twitter: [**@Jerry_Elikem**](https://twitter.com/Jerry_Elikem)
   
-  Email: jerryeagbesi@gmail.com
+  Email: **jerryeagbesi@gmail.com**
   
 <h1 align="center"> 🔧 Technologies & Tools </h1>
 
