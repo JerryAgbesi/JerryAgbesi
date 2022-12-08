@@ -5,6 +5,7 @@ a Unicorn backend/ Mobile Engineer.
 - 🔭 I’m currently exploring backend technologies and playing around with data
 - 👯 I’m looking to collaborate on open source projects and bring app Ideas or designs to life
 - ⚡ Fun fact: I love to create cool Illustrutions and read books in my free time 
+- ✍️ I write articles on concepts I learn about on [medium](https://medium.com/@jerryeagbesi)
 - 💬 Ask me about Flutter,Python,machine Learning, digital illustrations,reading and any Techie stuff.
 - 📫 How to reach me:
 
