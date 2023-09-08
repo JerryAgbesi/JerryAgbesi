@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there 👋, I'm Jerry </h1>
+<h1 align="center"> Howdy mate 👋, I'm Jerry </h1>
 A Computer Engineering student who loves to solve problems. I'm presently working towards becoming 
 a Unicorn backend/ Mobile Engineer. 
 
