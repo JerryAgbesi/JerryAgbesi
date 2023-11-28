@@ -28,7 +28,7 @@ a Unicorn backend/ Mobile Engineer.
 
 
 <p align="center">
-<img width="48%"  height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryAgbesi&layout=compact&theme=dracula" />
+<img width="48%"  height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerryAgbesi&layout=donut&theme=dracula" />
 </p>
 
 <h1 align="center"> &#x1f4c8; GitHub Stats </h1>
@@ -39,6 +39,3 @@ a Unicorn backend/ Mobile Engineer.
 <a href="https://github.com/JerryAgbesi/JerryAgbesi">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JerryAgbesi&theme=dracula" alt="Jerry's GitHub Stats" />
 </a>
-
-<a href="http://www.github.com/JerryAgbesi"><img src="https://activity-graph.herokuapp.com/graph?username=JerryAgbesi&bg_color=282a36&color=ffffff&line=dd6387&point=79dafa&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
